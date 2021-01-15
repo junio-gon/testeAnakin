@@ -3,15 +3,25 @@
 
 ## TECNOLOGIAS UTILIZADAS:
 Abordagem DDD
+
 API REST
+
 ASP Core com Entity Framework
+
 React com Axios
+
 Node JS
+
 Yarn
+
 Typescript
+
 CSS
+
 Visual Studio 2019
+
 Visual Studio Code
+
 
 **INSTRUÇÕES:**
 
